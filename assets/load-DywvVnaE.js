@@ -1,0 +1,1 @@
+import{r as e}from"./index-ELR-zXG6.js";var t=e();function n(){return(0,t.jsx)(`div`,{children:`Load Component`})}export{n as default};
