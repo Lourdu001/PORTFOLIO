@@ -1,1 +1,0 @@
-import{r as e}from"./index-E4wWHfL3.js";var t=e();function n(){return(0,t.jsx)(`div`,{children:`Load Component`})}export{n as default};
